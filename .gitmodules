@@ -1,0 +1,6 @@
+[submodule "CAPSTONE-PROJECT"]
+	path = CAPSTONE-PROJECT
+	url = https://github.com/AndreaFerraray/CAPSTONE-PROJECT
+[submodule "FRONT-END-CAPSTONE"]
+	path = FRONT-END-CAPSTONE
+	url = https://github.com/AndreaFerraray/FRONT-END-CAPSTONE
